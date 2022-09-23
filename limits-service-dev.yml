@@ -1,5 +1,5 @@
 limits:
   service:
     id: 101
-    minimum: 200
-    maximum: 10000
+    minimum: 0
+    maximum: 23000
